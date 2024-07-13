@@ -8,6 +8,11 @@
 
 ![text-embedding](data_analysis_app/data_analysis_app_screenshot.png)
 
+
+### Script Generator App
+
+![text-embedding](youtube_script_generator/yt_script_g.png)
+
 ### Example selector App
 
 ![example-selector](example_selectors_app/es_app.png)
